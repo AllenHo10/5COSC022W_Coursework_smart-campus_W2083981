@@ -1,4 +1,4 @@
-# Smart Campus – Sensor & Room Management API
+# Smart Campus – Sensor & Room Management API by-Allen Ho
 
 A RESTful JAX-RS API built with **Quarkus** and **RESTEasy** for managing campus rooms and IoT sensors.  
 All data is held in-memory using `ConcurrentHashMap` and `ArrayList` — no database required.
